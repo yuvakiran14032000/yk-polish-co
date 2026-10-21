@@ -1,0 +1,1 @@
+export default function ShopLoading(){return <div className="container section" role="status" aria-label="Loading designs"><div className="skeleton"/><p className="fine-print" style={{marginTop:20}}>Finding your next mood…</p></div>;}
